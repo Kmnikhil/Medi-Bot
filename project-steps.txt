@@ -1,0 +1,2 @@
+1. Create Git Repo
+2. Project Template (create bash script file which helps to build all folders and files immediately by run this bash file)
